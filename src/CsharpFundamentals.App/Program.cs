@@ -6,8 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        var exercise01 = new Exercise01();
+        var exercise02 = new Exercise02();
 
-        exercise01.Execute();
+        exercise02.Execute();
     }
 }
